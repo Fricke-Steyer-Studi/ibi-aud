@@ -1,0 +1,5 @@
+Dies ist das Git-Repository des Modulkurses *Einführung in Algorithmen
+und Datenstrukturen* im Masterstudiengang [[https://www.ddm-master.de/][Digitales Datenmanagement]].
+
+Die Materialien werden als [[https://jupyter.org/][Jupyter Notebooks]] zur Verfügung
+gestellt. Der Einstieg befindet sich im Notebook [[file:Index.ipynb][Index.ipynb]].
